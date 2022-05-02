@@ -1,0 +1,138 @@
+
+body {
+  margin: 0;
+  color: #6AE744;
+  font-family:'Merriweather Sans', sans-serif;
+  text-align: center;
+}
+
+h1 {
+  font-family: 'Mochiy Pop P One', cursive;
+  margin: 20px;
+  color: #F8B400
+}
+
+.car {
+  height: 80px;
+
+}
+
+.top-cloud {
+  padding: 10px
+}
+
+h2 {
+  font-family: 'Merriweather Sans', sans-serif;
+  font-style: oblique;
+  font-size: 30px;
+  text-decoration: overline;
+
+
+}
+
+h3 {
+  font-family: 'Mochiy Pop P One', sans-serif;
+}
+
+
+hr {
+  color: #066163;
+}
+
+.TOP {
+  background-color:#03045E;
+;
+
+  position: relative;
+
+}
+
+.skills {
+  color: #541212;
+}
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+
+
+}
+
+.BOTTOM {
+  background-color: #628395;
+}
+ .bottom-cloud {
+   position: absolute;
+   right:  250px;
+   bottom: 300px;
+ }
+
+ .n-cloud {
+   position: absolute;
+   left:  250px;
+   bottom: 300px;
+ }
+
+
+
+.me {
+  height: 110px;
+}
+
+
+.cycler-img {
+  width: 25%;
+  height: 100px;
+}
+
+.car-img {
+  width: 25%;
+}
+
+
+.cloud {
+  height: 20px;
+  width: 20px;
+
+}
+
+
+.btn {
+  background: #3498db;
+  background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+  background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+  background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+  background-image: -o-linear-gradient(top, #3498db, #2980b9);
+  background-image: linear-gradient(to bottom, #3498db, #2980b9);
+  -webkit-border-radius: 30;
+  -moz-border-radius: 30;
+  border-radius: 30px;
+  text-shadow: 1px 1px 3px #962196;
+  font-family: Courier New;
+  color: #ffffff;
+  font-size: 34px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #b81b1b;
+  background-image: -webkit-linear-gradient(top, #ffffff, #2c8f94);
+  background-image: -moz-linear-gradient(top, #ffffff, #2c8f94);
+  background-image: -ms-linear-gradient(top, #ffffff, #2c8f94);
+  background-image: -o-linear-gradient(top, #ffffff, #2c8f94);
+  background-image: linear-gradient(to bottom, #ffffff, #2c8f94);
+  text-decoration: overline;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  color: #3B5249;
+}
+
+.bottom-container {
+  background: #F1DDBF;
+  padding: 40px 0 20px;
+}
